@@ -193,6 +193,44 @@ yay -S obs-studio-git
 :::
 ::::
 
+安装`obs-studio-browser `你需要先执行
+:::: code-group
+::: code-group-item yay
+
+```sh
+yay -Rdd ffmpeg
+```
+
+:::
+::: code-group-item pacman
+
+```sh
+sudo pacman -Rdd ffmpeg
+```
+
+
+:::
+::::
+
+安装完obs-studio-browser 之后可以重新安装ffmpeg
+:::: code-group
+::: code-group-item yay
+
+```sh
+yay -S ffmpeg 
+```
+
+:::
+::: code-group-item pacman
+
+```sh
+sudo pacman -S ffmpeg
+```
+
+
+:::
+::::
+
 ![obs-studio](../static/exclusive/vedio/obs-studio.png)
 
 ::: tip ℹ️ 提示
