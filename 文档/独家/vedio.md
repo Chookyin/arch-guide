@@ -194,6 +194,7 @@ yay -S obs-studio-git
 ::::
 
 安装`obs-studio-browser `你需要先执行
+
 :::: code-group
 ::: code-group-item yay
 
@@ -213,6 +214,7 @@ sudo pacman -Rdd ffmpeg
 ::::
 
 安装完obs-studio-browser 之后可以重新安装ffmpeg
+
 :::: code-group
 ::: code-group-item yay
 
