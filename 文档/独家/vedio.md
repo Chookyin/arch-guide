@@ -213,6 +213,8 @@ sudo pacman -Rdd ffmpeg
 :::
 ::::
 
+若提示ffmpeg-obs与ffmpeg冲突是否卸载，请选y卸载
+
 安装完obs-studio-browser 之后可以重新安装ffmpeg
 
 :::: code-group
